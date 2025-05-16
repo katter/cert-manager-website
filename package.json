@@ -63,7 +63,7 @@
     "classnames": "2.3.2",
     "compare-versions": "6.0.0-rc.1",
     "gray-matter": "4.0.3",
-    "next": "13.5.4",
+    "next": "15.3.2",
     "next-mdx-remote": "4.2.0",
     "next-seo": "5.15.0",
     "prism-react-renderer": "1.3.5",
@@ -83,7 +83,7 @@
   },
   "devDependencies": {
     "concurrently": "^7.6.0",
-    "esbuild": "0.16.17",
+    "esbuild": "0.25.0",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.2",
     "eslint-config-prettier": "8.6.0",
